@@ -2,5 +2,5 @@ homepage: "https://www.thechatbotfactory.com"
 documentation: "https://github.com/thechatbotfactory/tcf-gtm-template"
 versions:
   # Latest version
-  - sha: 0cf7b6d611cd89e090fd49d702498030195edc74
+  - sha: b6679eefe9bc97303b8b4d0555ab7d2cc4f2bce4
     changeNotes: Initial release.
