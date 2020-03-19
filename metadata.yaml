@@ -1,5 +1,6 @@
 homepage: "https://www.thechatbotfactory.com"
-documentation: "https://www.thechatbotfactory.com/webchat-doc"
+documentation: "https://github.com/thechatbotfactory/tcf-gtm-template"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  # Latest version
+  - sha: 0cf7b6d611cd89e090fd49d702498030195edc74
     changeNotes: Initial release.
