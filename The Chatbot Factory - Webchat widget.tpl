@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "The Chatbot Factory - Webchat widget",
+  "categories": ["CHAT"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
